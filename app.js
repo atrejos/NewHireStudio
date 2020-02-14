@@ -14,7 +14,7 @@ var users = require('./routes/users');
 var Newhire = require('./models/Newhires')
 
 var app = express();
-
+//test
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 
